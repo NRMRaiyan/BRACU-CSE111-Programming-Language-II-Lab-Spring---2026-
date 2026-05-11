@@ -8,3 +8,9 @@
 
 ## **Week 1:** Loops, String, Arrays, OOP Basics
  * CSE111 Lab Assignment 01
+
+## **Week 2:** Loops, String, Arrays, OOP Basics
+ * CSE111 Lab Assignment 02
+
+## **Week 3:** Loops, String, Arrays, OOP Basics
+ * CSE111 Lab Assignment 03
